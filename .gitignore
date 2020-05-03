@@ -1,0 +1,5 @@
+/.env
+/storage/*
+/cache/*
+/vendor
+/composer.lock
