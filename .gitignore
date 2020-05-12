@@ -1,5 +1,5 @@
 /.env
-/storage/*
-/cache/*
+/storage/db.sqlite
+/cache/views/*
 /vendor
 /composer.lock

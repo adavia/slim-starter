@@ -11,11 +11,10 @@
         "slim/slim": "4.*",
         "slim/twig-view": "^3.0",
         "slim/psr7": "^1.0",
-        "illuminate/database": "^7.9",
         "symfony/var-dumper": "^5.0",
         "vlucas/phpdotenv": "^4.1",
         "league/container": "^3.3",
-        "robmorgan/phinx": "^0.12.1"
+        "doctrine/orm": "^2.7"
     },
     "autoload": {
         "psr-4": {
